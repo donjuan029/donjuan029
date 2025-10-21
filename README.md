@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donjuan029/donjuan029/main/assets/brain-cloud-animation.gif" width="100%" alt="3D Cloud Animation - Juan Carlo">
+</p>
+
+
 <!-- Banner superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:8a2be2&height=180&section=header&text=Juan%20Carlo%20Andrade%20Cruz%20🚀&fontSize=36&fontColor=fff&animation=fadeIn"/>
