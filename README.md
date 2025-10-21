@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://github.com/donjuan029/assets/blob/main/brain3d.mp4">
-    <img src="https://raw.githubusercontent.com/donjuan029/donjuan029/main/assets/brain-thumb.jpg" 
-         alt="Watch 3D AI Brain Animation" width="100%">
-  </a>
+  <img src="https://raw.githubusercontent.com/donjuan029/donjuan029/main/assets/brain-cloud-animation.gif" 
+       alt="3D AI Brain Animation - Juan Carlo" width="100%">
 </p>
+
 
 <!-- Banner superior -->
 <p align="center">
