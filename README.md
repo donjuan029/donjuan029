@@ -18,7 +18,7 @@ Com passagem por empresas como **JBS/Seara**, desenvolvi habilidades em **automa
 
 Atualmente, estou consolidando minha transição definitiva para **engenharia de software e dados**, com foco em **Java, Python, SQL e soluções em Cloud (AWS, Azure, Google e Oracle)**.  
 
-Sou também criador de conteúdo no canal 🎥 [**Don Games Tech**](https://m.youtube.com/@dongamestech), onde compartilho conhecimento sobre **tecnologia, hardware e inovação** para mais de 1 milhão de pessoas.
+Sou também criador de conteúdo no canal 🎥 [**Don Games Tech**](https://m.youtube.com/@dongamestech), onde compartilho conhecimento sobre **tecnologia, hardware e inovação**.
 
 ---
 
