@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/donjuan029/donjuan029/main/assets/brain.gif" 
-       alt="3D AI Brain Animation - Juan Carlo" width="80%">
+       alt="3D AI Brain Animation - Juan Carlo" width="85%">
 </p>
 
 
